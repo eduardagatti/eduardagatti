@@ -1,16 +1,15 @@
-### Hi there 👋
+Hi Ladies and Gentleman, eu sou a Eduarda River.
 
-<!--
-**eduardariver/eduardariver** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div> 
+ 
+  [![Eduarda River's GitHub stats](https://github-readme-stats.vercel.app/api?username=eduardariver&show_icons=true&theme=dracula)](https://github.com/eduardariver/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardariver&Layout_compact&langs_count&theme=dracula)](https://github.com/eduardariver/github-readme-stats)
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div style="display: inline_block"><br>
+  <img align="center" height"30" width"40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" height"30" width"40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" height"30" width"40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+
+</div>
