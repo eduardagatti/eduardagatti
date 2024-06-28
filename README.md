@@ -1,4 +1,4 @@
-Hi Ladies and Gentleman, eu sou a Eduarda River.
+Hi girls
 
 <div> 
  
