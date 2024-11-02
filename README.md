@@ -2,7 +2,8 @@
 
 #
 
-<img align="right" height="253" src="study.gif"  />
+<img align="right" height="250" src="study.gif" style="margin-left: 20px;" />
+
 
 ###
 
