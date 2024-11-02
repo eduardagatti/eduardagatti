@@ -2,21 +2,18 @@
 
 #
 
-<img align="right" height="253" src="https://imgflip.com/gif/98rnjq"  />
+<img align="right" height="253" src="study.gif"  />
 
-#
+###
 
 <p align="left">🧑‍💻 Programadora nível ChatGPT: se eu souber perguntar, programo qualquer coisa.<br>🐛 Especialista em resolver e criar bugs, geralmente nessa ordem mesmo.<br><br>Atualmente sou estudante de Ciências da Computação pela UNESA, com um pé no front e outro no back, minhas principais linguagens são Python e JavaScript. Estudo e me atualizo todos os dias. Meu sonho como programadora é descobrir quem foi o arrombado que inventou flexbox.</p>
 
-#
 
-<img align="right" alt="" height="190px" src="study.gif">
-
-#
+###
 
 <h3 align="left">Connect with me!</h3>
 
-#
+###
 
 <div align="left">
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="34" alt="gmail logo"  />
@@ -24,11 +21,11 @@
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="34" alt="linkedin logo"  />
 </div>
 
-#
+###
 
 <h3 align="left">My Stack:</h3>
 
-#
+###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35" alt="html5 logo"  />
