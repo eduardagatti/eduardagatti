@@ -1,64 +1,72 @@
-<h2 align="left">Oii, eu sou a Duda!</h2>
-
-<img align="right" height="230" src="study.gif" style="margin-left: 20px;" />
-
-
-###
-
-<p align="left">🧑‍💻 Programadora nível ChatGPT: se eu souber perguntar, programo qualquer coisa.<br>🐛 Especialista em resolver e criar bugs, geralmente nessa ordem mesmo.<br><br>Atualmente sou estudante de Ciências da Computação pela UNESA, com um pé no front e outro no back, minhas principais linguagens são Python e JavaScript. Estudo e me atualizo todos os dias. Meu sonho como programadora é descobrir quem foi o arrombado que inventou flexbox.</p>
-
-
-###
-
-<h3 align="left">Connect with me!</h3>
-
-###
-
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="34" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="34" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="34" alt="linkedin logo"  />
-</div>
-
-###
-
-<h3 align="left">My Stack:</h3>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35" alt="html5 logo"  />
-  <img width="17" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35" alt="css3 logo"  />
-  <img width="17" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" alt="javascript logo"  />
-  <img width="17" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="35" alt="react logo"  />
-  <img width="17" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" alt="python logo"  />
-  <img width="17" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="35" alt="django logo"  />
-  <img width="17" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="35" alt="flask logo"  />
-  <img width="17" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="35" alt="pandas logo"  />
-</div>
-
-#
-
-<h3 align="left">GitHub Stats</h3>
-
-###
+<h1 align="center">✨ Oii, eu sou a Duda! ✨</h1>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=eduardagatti&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=bear&locale=en&hide_border=false&order=1" height="151" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=eduardagatti&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=bear&hide_border=false&order=2" height="147" alt="languages graph"  />
+  <img height="230" src="study.gif" alt="Gif de estudos"/>
 </div>
 
-###
+<div align="center">
+  
+  [![Gmail](https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge)](mailto:seu-email@gmail.com)
+  [![Instagram](https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge)](https://instagram.com/seu-instagram)
+  [![LinkedIn](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge)](https://linkedin.com/in/seu-linkedin)
 
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/eduardagatti/eduardagatti/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/eduardagatti/eduardagatti/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/eduardagatti/eduardagatti/output/github-contribution-grid-snake.svg">
+</div>
+
+## 👩‍💻 Sobre mim
+
+```python
+class Duda:
+    def __init__(self):
+        self.about = {
+            "role": "Estudante de Ciências da Computação @ UNESA",
+            "skills": ["Frontend", "Backend", "Debugging"],
+            "current_status": "Aprendendo algo novo todo dia",
+            "superpower": "Programar qualquer coisa (desde que o ChatGPT colabore)",
+            "life_goal": "Descobrir quem inventou flexbox (e por quê?! 😅)"
+        }
+```
+
+## 🚀 Stack & Skills
+
+### Frontend
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5" title="HTML5"/>
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3" title="CSS3"/>
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript" title="JavaScript"/>
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react" title="React"/>
+</div>
+
+### Backend & Data
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python" title="Python"/>
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django" title="Django"/>
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="flask" title="Flask"/>
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas" title="Pandas"/>
+</div>
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=eduardagatti&show_icons=true&theme=bear&include_all_commits=true&count_private=true&hide_border=true" height="120" alt="stats graph"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardagatti&layout=compact&langs_count=6&theme=bear&hide_border=true" height="120" alt="languages graph"/>
+</div>
+
+## 🐍 Contribuições
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/eduardagatti/eduardagatti/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/eduardagatti/eduardagatti/output/github-contribution-grid-snake.svg"/>
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/eduardagatti/eduardagatti/output/github-contribution-grid-snake.svg"/>
 </picture>
+
+---
+
+<div align="center">
+  <i>🐛 Especialista em resolver e criar bugs, geralmente nessa ordem mesmo.</i>
+</div>
