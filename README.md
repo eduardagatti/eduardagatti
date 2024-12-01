@@ -1,4 +1,4 @@
-<h1 align="center">✨ Oii, eu sou a Duda! ✨</h1>
+<h1 align="center">✨Oii, eu sou a Duda✨</h1>
 
 <div align="center">
   <img height="230" src="study.gif" alt="Gif de estudos"/>
