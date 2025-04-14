@@ -47,9 +47,8 @@ class Eduarda:
 
 ## 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=eduardagatti&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=1800" height="150" alt="stats graph"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardagatti&layout=compact&langs_count=6&theme=dracula&hide_border=true&cache_seconds=1800" height="150" alt="languages graph"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=eduardagatti&theme=dracula&hide_border=true" height="150" alt="streak stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=eduardagatti&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true" height="150" alt="stats graph"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardagatti&layout=compact&langs_count=6&theme=dracula&hide_border=true" height="150" alt="languages graph"/>
 </div>
 
 ## 🐍 Contribuições
